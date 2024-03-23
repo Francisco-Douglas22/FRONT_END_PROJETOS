@@ -1,2 +1,3 @@
-# FRONT_END_PROJETOS
- Projetos em Front-End, HTML, CSS, JavaScript, REACT
+# Estudos Front-END
+
+ Front-End, HTML, CSS, JavaScript, REACT
